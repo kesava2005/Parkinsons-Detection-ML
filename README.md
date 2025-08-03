@@ -38,8 +38,6 @@
 
 <img width="563" height="215" alt="Screenshot 2025-07-18 161824" src="https://github.com/user-attachments/assets/722bc91e-359c-439b-8624-69f5cc40a616" />
 
-<img width="915" height="613" alt="Screenshot 2025-07-18 162133" src="https://github.com/user-attachments/assets/1cecbaf9-9df4-4431-b621-04c14bdc1f40" />
-
 
 ---
 ## ⚙️ How to Run
